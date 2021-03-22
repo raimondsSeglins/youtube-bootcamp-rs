@@ -2,3 +2,7 @@
   display: flex;
   justify-content: space-between;
 }
+.search input:focus {
+  outline: none;
+  background: lightseagreen;
+}
