@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  background: #f1f1f1;
+}
 #top-menu {
   display: flex;
   justify-content: space-between;
